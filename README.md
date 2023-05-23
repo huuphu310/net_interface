@@ -1,2 +1,2 @@
 # netplan
-Project dùng để chuẩn hoá file config của netplan, bỏ đi IPv6
+Project này dùng để chuẩn hoá file cấu hình của netplan, bỏ IPv6
